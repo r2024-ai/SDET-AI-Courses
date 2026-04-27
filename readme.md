@@ -1,3 +1,3 @@
-## Notes - Udemy AI Testing Courses and DeepLearning.AI
-https://www.deeplearning.ai/
-https://www.udemy.com/
+## Notes - AI Testing Courses
+1. DeepLearning - https://www.deeplearning.ai/
+2. Udemy - https://www.udemy.com/

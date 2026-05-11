@@ -80,3 +80,8 @@ Test exit criteria -  when you say test cases sign off
 ![alt text](image-30.png)
 
 ![alt text](image-31.png)
+
+> So end to end test cases will go into automation UI layer.
+
+## Generate Test Data combinations for the given tests using AI
+

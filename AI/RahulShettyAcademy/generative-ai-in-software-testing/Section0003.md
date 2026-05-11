@@ -48,3 +48,35 @@ In above prompt context and constraints are clearly given for AI to generate tes
 > So above is what we are telling to the business. So that is our test strategy, all that we have to include in test plan  
 > The beauty part here is you need not write everything or think everything.  
 > Take the copy, put it in your word document and make edits on high level
+
+
+![alt text](image-23.png)
+
+![alt text](image-24.png)
+
+Test exit criteria -  when you say test cases sign off  
+* when all test cases are executed
+* high priority defects resolved
+* User accceptance testing successful
+
+* So just save the test plan in a word doc , after everything is correct after reviewing share it to your business. It's hardly taking 2 minutes
+
+* Now in next lecture we will see how to prepare test cases based on test plan  
+
+## Generating Test cases for the requirements using AI
+
+![alt text](image-25.png)
+
+![alt text](image-26.png)
+
+![alt text](image-27.png)
+
+## Generating Test Strategy(Shift Left Testing) with the given test cases using AI
+
+![alt text](image-28.png)
+
+![alt text](image-29.png)
+
+![alt text](image-30.png)
+
+![alt text](image-31.png)

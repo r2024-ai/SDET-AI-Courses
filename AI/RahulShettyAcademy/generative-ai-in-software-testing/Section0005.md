@@ -19,3 +19,8 @@
 * Playwright MCP
 
 ![alt text](image-38.png)
+
+![alt text](image-40.png)
+
+> It's good to ask because somebody is acting behalf of you on your own system  
+> So you should be careful that right methods are being executed  

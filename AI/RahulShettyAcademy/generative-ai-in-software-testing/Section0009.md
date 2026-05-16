@@ -14,3 +14,7 @@
 or else you can use community version of self-hosting
 
 ![alt text](image-57.png)
+
+## How n8n revolutionized with AI Agents encapsulation
+
+* Now let's see how AI agents can do the work of filtering, sending email, extracting sheet data etc

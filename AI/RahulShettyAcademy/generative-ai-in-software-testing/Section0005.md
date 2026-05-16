@@ -12,15 +12,35 @@
 
 ![alt text](image-37.png)
 
-* MySQL MCP Server
+* **MySQL MCP Server**
 
 ![alt text](image-39.png)
 
-* Playwright MCP
+* **Playwright MCP**
 
 ![alt text](image-38.png)
+
+* **Selenium MCP server**
+
+![alt text](image-42.png)
 
 ![alt text](image-40.png)
 
 > It's good to ask because somebody is acting behalf of you on your own system  
 > So you should be careful that right methods are being executed  
+
+### Episode 2 - 
+
+MCP Client - Claude
+
+Download Claude -  
+
+![alt text](image-41.png)
+
+Edit config - 
+
+![alt text](image-44.png)
+
+![alt text](image-43.png)
+
+### Episode 3 - 

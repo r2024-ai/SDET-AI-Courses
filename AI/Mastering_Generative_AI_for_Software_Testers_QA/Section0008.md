@@ -81,3 +81,39 @@ Enter "fish" in search box
 Click Search button
 Verify "Angelfish" is present in results
 ```
+
+## API Tests
+
+```txt
+Create a POM model for below steps :
+1. Navigate to https://petstore.octoperf.com/actions/Catalog.action 
+2. Search for "Fish" in search box and press enter
+3. Verify that "Goldfish" is in the table
+```
+
+* Prompt
+
+```txt
+You are an API test generator using Playwright MCP.
+Use Playwright's 'request' context and "@playwright/test" framework.
+The test should : 
+- Send HTTP requests to the target API. 
+- Validate the status code, response body, and schema(if applicable). 
+- Use aync/await syntax. 
+- Print useful logs for debugging if needed. 
+- Export the test to a ".spec.ts" file under the "/tests" folder.
+Do not generate test code until all steps are fully explored and validated.
+```
+
+* **API Test**
+
+```txt
+Generate a Playwright API test for the following scenario :
+1. Define the API endpoint URL:https://fakestoreapi.com/products/1
+2. Send a GET request to the endpoint.
+3. Verify the response status  is 200
+4. Validate the response contains these keys:'id', 'title', 'category', and 'description'.
+5. Optionally validate the data types using a JSON Schema(Ajv).
+6. Log the product title and price to the console.
+
+```

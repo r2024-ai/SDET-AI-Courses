@@ -120,3 +120,19 @@ C:\Users\Rudreshwar.Jha>
 DB setup is done
 
 ![alt text](image-64.png)
+
+done - 
+
+![alt text](image-65.png)
+
+![alt text](image-66.png)
+
+![alt text](image-67.png)
+
+> So that is how you connect multiple MCP servers
+
+## Build Agent which can perform API Testing & talk to local File systems for data
+
+## Build Agent which can read/write to excel file for any given scenario
+
+![alt text](image-68.png)

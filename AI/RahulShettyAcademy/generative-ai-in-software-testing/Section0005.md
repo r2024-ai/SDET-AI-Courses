@@ -117,3 +117,6 @@ C:\Users\Rudreshwar.Jha>
 
 `where uv`
 
+DB setup is done
+
+![alt text](image-64.png)

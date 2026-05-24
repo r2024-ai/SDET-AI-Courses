@@ -21,5 +21,19 @@
 
 ![alt text](image-73.png)
 
+![alt text](image-74.png)
+
+### Putting It All Together  
+
+![alt text](image-75.png)
+
+* To do Multi-Agent Collaboration - It's a separate learning path
+
+### Next Steps - AutoGen Framework
+
+![alt text](image-76.png)
+
+
+![alt text](image-77.png)
 
 
